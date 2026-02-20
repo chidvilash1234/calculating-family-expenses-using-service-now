@@ -1,5 +1,3 @@
-# calculating-family-expenses-using-service-now
-calculating family expenses using service now
 # Calculating Family Expenses using ServiceNow
 
 ## Project Overview
